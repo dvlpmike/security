@@ -1,5 +1,7 @@
 ## Common ports
 
+The Internet is a vast network of connected devices, and every device has a unique address known as an IP address. To communicate with each other, these devices use different ports to exchange data. Knowing the common ports is essential for any network administrator or cybersecurity professional to understand the flow of data and the potential security threats.
+
 | Port | Protocol | Description | 
 |-----|----------|-------------|
 | 21  | TCP      | FTP (File Transfer Protocol) control port. | 
@@ -105,6 +107,6 @@
 | 51235 | TCP    | Check Point firewall management. |
 | 55160 | TCP/UDP | TeamViewer remote access software. |
 
-References 
+# References 
 - https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
 - https://packetlife.net/media/library/23/common_ports.pdf
