@@ -10,4 +10,6 @@
 | [virustotal.com](https://www.virustotal.com) | Analyse suspicious files, domains, IPs and URLs |
 | [grep.app](https://grep.app/) | Search across a half million git repos |
 | [hunter.io](https://hunter.io/) | Search Email addresses |
-
+| [onyphe.io](https://www.onyphe.io) | Search servers |
+| [shodan.io](https://shodan.io) | Search servers |
+| [crt.sh ](https://crt.sh) | Search certificate |
